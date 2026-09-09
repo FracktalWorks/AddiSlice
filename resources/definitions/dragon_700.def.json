@@ -5,7 +5,7 @@
     "id": "dragon_700",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "manufacturer": "Dragon Series",
         "category": "Dragon",
         "has_machine_materials": true,

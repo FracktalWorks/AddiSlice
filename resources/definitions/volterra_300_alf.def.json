@@ -5,7 +5,7 @@
     "id": "volterra_300_alf",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "manufacturer": "Volterra ALF Series",
         "category": "Volterra ALF Series",
         "has_machine_materials": true,

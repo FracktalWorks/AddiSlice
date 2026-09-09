@@ -5,7 +5,7 @@
     "id": "penrose_600_idex_choosable_pellet",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "machine_extruder_trains": { "0": "penrose_600_idex_choosable_pellet_extruder_0" },
         "machine_variant_shortcode": "PE",
         "platform_offset": [

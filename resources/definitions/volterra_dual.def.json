@@ -5,7 +5,7 @@
     "id": "volterra_dual",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "manufacturer": "Volterra Series",
         "category": "Volterra Series",
         "has_machine_materials": true,

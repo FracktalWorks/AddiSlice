@@ -5,7 +5,7 @@
     "id": "julia_pro_dual",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "manufacturer": "Julia Series",
         "category": "Julia Pro Series",
         "has_machine_materials": true,

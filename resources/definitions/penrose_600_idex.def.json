@@ -5,7 +5,7 @@
     "id": "penrose_600_idex",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "manufacturer": "Penrose Series",
         "category": "Penrose Series",
         "exclude_materials": [

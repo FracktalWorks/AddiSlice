@@ -5,7 +5,7 @@
     "id": "twin_dragon_400",
     "metadata":
     {
-        "visible": true,
+        "visible": false,
         "manufacturer": "Twin Dragon",
         "category": "IDEX Series",
         "has_machine_materials": true,
